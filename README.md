@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-![logo](https://github.com/SKBER-CYBER/SKBER-CYBER/blob/main/Github%20Banner.png)
+![logo](https://github.com/SKBER-CYBER/)
 <h1 align="center">Hi 👋, I'm JAHID</h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 SKBER-CYBER </h3>
 
