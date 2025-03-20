@@ -87,7 +87,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: Preview :
 
 <!-- Github README -->
-<p align="center"><a href="https://github.com/MRXCOD">
+<p align="center"><a href="https://github.com/SKBER-CYBER">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SKBER-CYBER&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/SKBER-CYBER"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKBER-CYBER&layout=compact&theme=react&hide_border=true" />
